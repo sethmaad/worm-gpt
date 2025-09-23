@@ -49,7 +49,7 @@ def main(key, model):
 
 if __name__ == "__main__":
     banner()
-    key = "YOUR_KEY_OPEN_AI"
+    key = "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"
     model = "gpt-3.5-turbo-16k-0613"
     clear()
     main(key, model)
