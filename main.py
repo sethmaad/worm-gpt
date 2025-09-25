@@ -49,7 +49,7 @@ def main(key, model):
 
 if __name__ == "__main__":
     banner()
-    key = "sk-proj-ZER1of_qEfuPOvTStLg3diqBherFZ5AHXyZxDn_ewrRCX549Mly0MG4wmhlh8t4vNGud-12TR9T3BlbkFJXQndJjbACF9SwHP_ICzE5UyF1fdsUYwVzNsPKokpK-TZH3OwM6-sKAOfXQbXUZplzptyVA22kA0A"
+    key = "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"
     model = "gpt-3.5-turbo-16k-0613"
     clear()
     main(key, model)
